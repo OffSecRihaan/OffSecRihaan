@@ -1,8 +1,2 @@
-# Hi there 👋 I'm Rihaan  
-Cybersecurity & Ethical Hacker  
+<img src="banner.svg" />
 
-🔭 Currently working on: cool projects  
-🌱 Learning: advanced attacks & automation  
-💻 Skills: Penetration Testing, Red Team, CTFs  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rihaan&show_icons=true)
