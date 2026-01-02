@@ -39,13 +39,13 @@
     hi there
   </text>
 
-  <!-- subtitle -->
+  <!-- subtitle (escaped pipe) -->
   <text x="50%" y="60%"
         text-anchor="middle"
         font-size="18"
         fill="#9a9a9a"
         font-family="monospace">
-    penetration tester | security research
+    penetration tester &#124; security research
   </text>
 
 </svg>
