@@ -1,49 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1200" height="300"
-     viewBox="0 0 1200 300">
+     width="1200" height="320"
+     viewBox="0 0 1200 320">
 
   <!-- background -->
-  <rect width="1200" height="300" fill="#000000"/>
+  <rect width="1200" height="320" fill="#000000"/>
 
-  <!-- scrolling terminal text -->
+  <!-- scrolling terminal output -->
   <g font-family="monospace"
      font-size="14"
-     fill="#b0b0b0"
-     opacity="0.45">
+     fill="#9ca3af"
+     opacity="0.4">
 
     <g>
-      <text x="40" y="340">$ nmap -sS -Pn target</text>
-      <text x="40" y="365">[+] open ports detected</text>
-      <text x="40" y="390">$ enum_services --deep</text>
-      <text x="40" y="415">[*] testing trust boundaries</text>
-      <text x="40" y="440">$ if (!assume_secure(system))</text>
-      <text x="40" y="465">[*] privilege escalation checks</text>
-      <text x="40" y="490">$ persistence --dry-run</text>
+      <text x="40" y="360">$ nmap -sS -Pn target</text>
+      <text x="40" y="385">[*] enumerating services</text>
+      <text x="40" y="410">[*] testing trust boundaries</text>
+      <text x="40" y="435">[+] privilege escalation possible</text>
+      <text x="40" y="460">$ enum_users --silent</text>
+      <text x="40" y="485">[*] low-priv context identified</text>
+      <text x="40" y="510">$ persistence --check</text>
 
       <animateTransform
         attributeName="transform"
         type="translate"
         from="0 0"
-        to="0 -260"
-        dur="14s"
+        to="0 -280"
+        dur="16s"
         repeatCount="indefinite"/>
     </g>
   </g>
 
-  <!-- header -->
-  <text x="50%" y="46%"
+  <!-- command line intro -->
+  <text x="50%" y="42%"
         text-anchor="middle"
         font-size="36"
-        fill="#e5e5e5"
+        fill="#e5e7eb"
         font-family="monospace">
-    hi there
+    $ whoami
   </text>
 
-  <!-- subtitle (escaped pipe) -->
-  <text x="50%" y="60%"
+  <!-- blinking cursor -->
+  <text x="58%" y="42%"
+        font-size="36"
+        fill="#e5e7eb"
+        font-family="monospace">
+    _
+    <animate attributeName="opacity"
+             from="1" to="0"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- identity output -->
+  <text x="50%" y="56%"
         text-anchor="middle"
         font-size="18"
-        fill="#9a9a9a"
+        fill="#9ca3af"
+        font-family="monospace">
+    offensive-security
+  </text>
+
+  <text x="50%" y="66%"
+        text-anchor="middle"
+        font-size="16"
+        fill="#6b7280"
         font-family="monospace">
     penetration tester &#124; security research
   </text>
