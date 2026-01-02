@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner.svg?v=2" />
+<img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-cli-v2.svg/>
 
 
 
