@@ -4,7 +4,6 @@
 
 > I am an ethical hacker and hands-on penetration tester focused on practical security testing and real-world system behavior, where theory is validated only through execution. My work is driven by building, modifying, and operating custom security tools to challenge trust assumptions, stress systems beyond safe defaults, and surface failure points that do not appear in documentation or automated scans. I approach security from an attacker’s perspective while operating within strict ethical and authorized boundaries, prioritizing clarity, repeatability, and measurable impact over noise or theatrics.
 
-<h3 align="center">Tooling</h3>
 
 <h3 align="center">Languages & Tooling</h3>
 
@@ -25,11 +24,11 @@
 <h3 align="center">Contact</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank">
+  <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" />
   </a>
 
-  <a href="mailto:rihaansofii@gmail.com">
+  <a href="mailto:rihaansofii@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" />
   </a>
 </div>
