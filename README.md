@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-2.svg" />
-
+```
 $ focus
 I am an ethical hacker and hands-on penetration tester with a strong focus on practical security testing and real-world attack scenarios.
 
