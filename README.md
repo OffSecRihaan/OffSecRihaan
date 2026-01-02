@@ -1,13 +1,8 @@
 <img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-2.svg" />
 
-```text
 $ focus
-ethical hacking
-security research
-responsible disclosure
+I am an ethical hacker and hands-on penetration tester with a strong focus on practical security testing and real-world attack scenarios.
 
-$ mindset
-verify > assume
-quiet > loud
-precision > noise
+I actively build and test security tools, analyze system behavior, and validate trust assumptions through controlled and responsible research.
+
 
