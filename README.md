@@ -4,7 +4,8 @@
 Hey There, Howz it going?
 ``` 
 
-<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/1bbbb13d-fb7e-49cc-a67c-44d268be2855" />
+<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/3087503f-df1d-4e53-819a-33b9be70d67f" />
+
 
 
 <h2 align="center"><b>About Me</b></h2>
