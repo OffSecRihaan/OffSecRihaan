@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-2.svg" />
 
 ```bash
-sudo bash offsecrihaan init
+Hey There, Howz it going?
 ``` 
 
 <h2 align="center"><b>About Me</b></h2>
