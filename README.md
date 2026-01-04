@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-2.svg" />
+<img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-3.svg" />
 
 ```bash
 Hey There, Howz it going?
