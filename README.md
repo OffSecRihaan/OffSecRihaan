@@ -25,7 +25,7 @@ Question the system, Always.
 <h3 align="center">Languages & Tooling</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="30" alt="bash"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
   <img width="12"/>
