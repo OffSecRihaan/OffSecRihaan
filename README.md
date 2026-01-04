@@ -38,6 +38,8 @@ Question the system, Always.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="30" alt="linux"/>
   <img width="12"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="30" alt="HTML"/>
+  <img width="12"/>
 </div>
 
 <h3 align="center">Contact</h3>
