@@ -42,7 +42,7 @@ Question the system, Always.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" />
+    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />
   </a>
 
   <a href="mailto:rihaansofii@gmail.com" target="_blank" rel="noopener noreferrer">
