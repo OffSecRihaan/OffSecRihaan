@@ -48,6 +48,8 @@ Question the system, Always.
   <a href="mailto:rihaansofii@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://github.com/OffSecRihaan/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 
