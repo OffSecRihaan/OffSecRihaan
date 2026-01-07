@@ -18,7 +18,8 @@ Question the system, Always.
 
 ###
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OffSecRihaan&show_icons=true&theme=radical)
+![Tetris](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 
