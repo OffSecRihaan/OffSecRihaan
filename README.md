@@ -18,7 +18,8 @@ Question the system, Always.
 
 ###
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Reconnaissance+Mode;Exploitation+In+Progress;Privilege+Escalated)
+![Stats](https://github-readme-stats.vercel.app/api?username=OffSecRihaan&show_icons=true&theme=radical)
+
 
 
 
