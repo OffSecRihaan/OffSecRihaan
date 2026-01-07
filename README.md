@@ -18,7 +18,8 @@ Question the system, Always.
 
 ###
 
-![Tetris](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
