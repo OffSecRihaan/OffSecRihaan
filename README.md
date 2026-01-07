@@ -18,7 +18,9 @@ Question the system, Always.
 
 ###
 
-![Pacman](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Reconnaissance+Mode;Exploitation+In+Progress;Privilege+Escalated)
+
+
 
 
 
