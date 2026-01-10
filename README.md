@@ -18,7 +18,8 @@ Question the system, Always.
 
 ###
 
-![Pacman](https://raw.githubusercontent.com/platane/pacman/master/pacman.svg)
+![Among Us](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
