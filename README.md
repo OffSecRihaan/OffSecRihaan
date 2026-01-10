@@ -18,7 +18,9 @@ Question the system, Always.
 
 ###
 
-![Tetris](https://github.com/your-username/tetris/raw/main/tetris.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=OffSecRihaan&show_icons=true&theme=dark)
+
+
 
 
 
