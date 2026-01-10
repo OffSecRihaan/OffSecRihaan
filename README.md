@@ -18,7 +18,8 @@ Question the system, Always.
 
 ###
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OffSecRihaan&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.demolab.com/api?username=OffSecRihaan&show_icons=true&theme=dark)
+
 
 
 
