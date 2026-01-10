@@ -18,7 +18,7 @@ Question the system, Always.
 
 ###
 
-![Space Invaders](https://github.com/your-username/space-invaders/raw/main/space.svg)
+![Tetris](https://github.com/your-username/tetris/raw/main/tetris.svg)
 
 
 
