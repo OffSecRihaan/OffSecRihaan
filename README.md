@@ -18,18 +18,7 @@ Question the system, Always.
 
 ###
 
-<img src="https://github-readme-stats.demolab.com/api?username=OffSecRihaan&show_icons=true&theme=dark" />
-
-
-
-
-
-
-
-
-
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=OffSecRihaan&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
