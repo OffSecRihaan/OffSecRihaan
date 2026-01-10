@@ -18,7 +18,8 @@ Question the system, Always.
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OffSecRihaan&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-winning.vercel.app/?username=OffSecRihaan&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
