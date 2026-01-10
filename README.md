@@ -18,7 +18,8 @@ Question the system, Always.
 
 ###
 
-![Stats](https://github-readme-stats.demolab.com/api?username=OffSecRihaan&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.demolab.com/api?username=OffSecRihaan&show_icons=true&theme=dark" />
+
 
 
 
