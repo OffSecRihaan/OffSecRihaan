@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/⚠️%20Restricted%20Profile-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚠️%20Flagged%20Under%20Enforcement%20Oversight-red?style=for-the-badge" />
 </div>
+>
 
 
 <img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-3.svg" />
