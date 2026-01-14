@@ -40,14 +40,14 @@ Most weaknesses only appear after trust is abused long enough. I pay attention t
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <a href="mailto:rihaansofii@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
   
-  <a href="https://github.com/OffSecRihaan/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/OffSecRihaan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
