@@ -6,7 +6,7 @@ Question the system, Always.
 <h2 align="center"><b>About Me</b></h2>
 
 <p align="center">
-I look at systems the way problems look at locks. I work hands-on, build what I need, and push until patterns change. Most weaknesses only appear after trust is abused long enough I pay attention to those moments.
+I look at systems the way problems look at locks. I work hands-on, build what I need, and push until patterns change.<br> Most weaknesses only appear after trust is abused long enough I pay attention to those moments.
 </p>
 
 ---
