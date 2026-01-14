@@ -33,24 +33,13 @@ Question the system, Always.
 
 <h3 align="center">Languages & Tooling</h3>
 
+<h3 align="center">Languages & Tooling</h3>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" height="32" alt="bash"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"/>
-  <img width="12"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
-  
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="30" alt="HTML"/>
-  <img width="12"/>
-  
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,html" height="42" />
 </div>
+
 
 <h3 align="center">Contact</h3>
 
