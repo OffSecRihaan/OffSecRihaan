@@ -26,8 +26,6 @@ Question the system, Always.
 </table>
 
 
-> 
-###
 
 
 <picture>
