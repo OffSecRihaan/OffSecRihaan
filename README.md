@@ -32,17 +32,18 @@ Question the system, Always.
 ###
 
 
-<h2 align="center">Languages • Tooling • Platforms</h2>
+<h3 align="center">Languages • Tooling • Platforms</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs,react,django,flask&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs&theme=dark" height="54"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres,mongodb,redis,linux,docker,kubernetes,nginx,aws,git,github&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
 </div>
+
 
 
 
