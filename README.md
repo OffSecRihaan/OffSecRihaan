@@ -12,17 +12,10 @@ Most weaknesses only appear after trust is abused long enough I pay attention to
 
 ---
 
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="Contribution graph">
-</picture>
 
 ---
 
-### Trophies
+<h2 align="center"><b>Trophies</b></h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
