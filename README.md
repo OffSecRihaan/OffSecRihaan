@@ -1,51 +1,37 @@
-
 <img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-3.svg" />
 
-
-```bash
-Question the system, Always.
-```
+<p align="center"><i>Question the system. Always.</i></p>
 
 <h2 align="center"><b>About Me</b></h2>
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
+<p align="center">
+I look at systems the way problems look at locks.<br/>
+I work hands-on, build what I need, and push until patterns change.<br/>
+Most weaknesses only appear after trust is abused long enough.<br/>
+I pay attention to those moments.
+</p>
 
-> I look at systems the way problems look at locks. I work hands-on, build what I need, and push until patterns change. Most weaknesses only appear after trust is abused long enough. I pay attention to those moments.
+---
 
-    </td>
-    <td width="30%" align="right">
-
-<img src="https://private-user-images.githubusercontent.com/168954568/352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif"
-     width="180"
-     alt="animation"/>
-
-    </td>
-  </tr>
-</table>
-
-
-
+### Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph">
 </picture>
 
-###
+---
 
+### Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=OffSecRihaan&theme=darkhub&no-frame=true" />
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=OffSecRihaan&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
-
-###
-
+---
 
 <h3 align="center">Languages • Tooling • Platforms</h3>
 
@@ -59,9 +45,7 @@ Question the system, Always.
   <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
 </div>
 
-
-
-
+---
 
 <h3 align="center">Contact</h3>
 
@@ -69,10 +53,10 @@ Question the system, Always.
   <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:rihaansofii@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/OffSecRihaan/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
