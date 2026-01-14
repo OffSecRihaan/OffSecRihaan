@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-3.svg" />
 
-<p align="center"><i>Question the system. Always.</i></p>
-
+```bash
+Question the system, Always.
+```
 <h2 align="center"><b>About Me</b></h2>
 
 <p align="center">
