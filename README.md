@@ -19,7 +19,7 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 
 ---
 
-<h3 align="center">Languages • Tooling • Platforms</h3>
+<h2 align="center">Languages • Tooling • Platforms</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs&theme=dark" height="54"/>
