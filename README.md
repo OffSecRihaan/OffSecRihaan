@@ -12,9 +12,6 @@ Most weaknesses only appear after trust is abused long enough. I pay attention t
 </h4>
 
 
-
----
-
 <h2 align="center"><b>Trophies</b></h2>
 
 <p align="center">
