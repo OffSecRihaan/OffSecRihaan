@@ -32,10 +32,11 @@ Question the system, Always.
 ###
 
 
-<h2 align="center">Languages and Tooling</h2>
+<h2 align="center">Languages • Tooling • Platforms</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,html,css,php,go,rust,java&theme=dark" height="42"/>
+  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs,react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,kubernetes,nginx,aws,git,github&theme=dark" height="42"/>
 </div>
+
 
 
 <h3 align="center">Contact</h3>
