@@ -31,13 +31,10 @@ Question the system, Always.
 
 ###
 
-<h3 align="center">Languages & Tooling</h3>
 
-<h3 align="center">Languages & Tooling</h3>
-
+<h3 align="center">Languages</h3>
 <div align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,html" height="42" />
+  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,html,css,php,go,rust,java&theme=dark" height="42"/>
 </div>
 
 
