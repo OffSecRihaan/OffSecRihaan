@@ -32,7 +32,7 @@ Question the system, Always.
 ###
 
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Languages and Tooling</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,cs,js,html,css,php,go,rust,java&theme=dark" height="42"/>
 </div>
