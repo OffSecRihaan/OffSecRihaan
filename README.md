@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/⚠️%20Flagged%20for%20Malicious%20Patterns-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚠️%20Restricted%20Security%20Profile-red?style=for-the-badge" />
 </div>
 
 
