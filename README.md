@@ -3,7 +3,7 @@
 ```bash
 Question the system, Always.
 ```
-<h2 align="center"><b>About Me</b></h2>
+<h1 align="center"><b>About Me</b></h1>
 
 <h4 align="center">
 I look at systems the way problems look at locks. I work hands-on, build what I need, and push until patterns change. <br> 
