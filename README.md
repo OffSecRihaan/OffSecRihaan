@@ -6,11 +6,26 @@
 Question the system, Always.
 ```
 
-<img src="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgzODAzMDMsIm5iZiI6MTc2ODM4MDAwMywicGF0aCI6Ii85NTI2NTg5NS8zODI0Njg1MDYtZTc4ZTEzZmQtOGM4NC00YzIxLTk0NzEtNzlkNTM3NGQ0YTE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTE0VDA4NDAwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlNjIxOTFhOTgwMjI4OTkyOWVjNjQzMWFkYjA0ZmZhNjA5ZWVkMWVhNzdhYmU1ZTYwNWMxOWY4NTNhMTFhNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.W_PmXX4JLFoS5-9oQEK7k_vvkqId2weqXlK2QYutQ0o" />
-
 <h2 align="center"><b>About Me</b></h2>
 
+<table>
+  <tr>
+    <td width="70%" valign="top">
+
 > I look at systems the way problems look at locks. I work hands-on, build what I need, and push until patterns change. Most weaknesses only appear after trust is abused long enough. I pay attention to those moments.
+
+    </td>
+    <td width="30%" align="right">
+
+<img src="https://private-user-images.githubusercontent.com/168954568/352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif"
+     width="180"
+     alt="animation"/>
+
+    </td>
+  </tr>
+</table>
+
+
 > 
 ###
 
@@ -63,12 +78,3 @@ Question the system, Always.
   <a href="https://github.com/OffSecRihaan/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
-
-
-
-
-
-
-
-
-
