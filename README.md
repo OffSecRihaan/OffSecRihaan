@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/⚠️%20Restricted%20Security%20Profile-red?style=for-the-badge" />
-</div>
-
-
 
 <img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-3.svg" />
 
