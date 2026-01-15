@@ -1,0 +1,78 @@
+<svg width="720" height="200" viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #000000; }
+    .card {
+      fill: none;
+      stroke: #f5c518;
+      stroke-width: 1.4;
+      rx: 12;
+    }
+    .trophy {
+      fill: #f5c518;
+    }
+    .title {
+      fill: #f5c518;
+      font-size: 14px;
+      font-weight: 600;
+      font-family: Inter, Arial, sans-serif;
+      dominant-baseline: middle;
+    }
+    .status {
+      fill: #e6d27a;
+      font-size: 12px;
+      font-family: Inter, Arial, sans-serif;
+      dominant-baseline: middle;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="720" height="200" rx="18"/>
+
+  <!-- Card 1 -->
+  <rect class="card" x="20" y="30" width="210" height="60"/>
+  <path class="trophy" d="M40 42h18v10c0 10-5 16-9 18-4-2-9-8-9-18z"/>
+  <rect class="trophy" x="46" y="70" width="6" height="8"/>
+  <rect class="trophy" x="42" y="78" width="14" height="4"/>
+  <text class="title" x="70" y="50">Tradecraft</text>
+  <text class="status" x="70" y="68">Mastered</text>
+
+  <!-- Card 2 -->
+  <rect class="card" x="255" y="30" width="210" height="60"/>
+  <path class="trophy" d="M275 42h18v10c0 10-5 16-9 18-4-2-9-8-9-18z"/>
+  <rect class="trophy" x="281" y="70" width="6" height="8"/>
+  <rect class="trophy" x="277" y="78" width="14" height="4"/>
+  <text class="title" x="305" y="50">Exploit Dev</text>
+  <text class="status" x="305" y="68">Achieved</text>
+
+  <!-- Card 3 -->
+  <rect class="card" x="490" y="30" width="210" height="60"/>
+  <path class="trophy" d="M510 42h18v10c0 10-5 16-9 18-4-2-9-8-9-18z"/>
+  <rect class="trophy" x="516" y="70" width="6" height="8"/>
+  <rect class="trophy" x="512" y="78" width="14" height="4"/>
+  <text class="title" x="540" y="50">Tooling</text>
+  <text class="status" x="540" y="68">Achieved</text>
+
+  <!-- Card 4 -->
+  <rect class="card" x="20" y="115" width="210" height="60"/>
+  <path class="trophy" d="M40 127h18v10c0 10-5 16-9 18-4-2-9-8-9-18z"/>
+  <rect class="trophy" x="46" y="155" width="6" height="8"/>
+  <rect class="trophy" x="42" y="163" width="14" height="4"/>
+  <text class="title" x="70" y="135">Attack Sim</text>
+  <text class="status" x="70" y="153">Mastered</text>
+
+  <!-- Card 5 -->
+  <rect class="card" x="255" y="115" width="210" height="60"/>
+  <path class="trophy" d="M275 127h18v10c0 10-5 16-9 18-4-2-9-8-9-18z"/>
+  <rect class="trophy" x="281" y="155" width="6" height="8"/>
+  <rect class="trophy" x="277" y="163" width="14" height="4"/>
+  <text class="title" x="305" y="135">Research</text>
+  <text class="status" x="305" y="153">Active</text>
+
+  <!-- Card 6 -->
+  <rect class="card" x="490" y="115" width="210" height="60"/>
+  <path class="trophy" d="M510 127h18v10c0 10-5 16-9 18-4-2-9-8-9-18z"/>
+  <rect class="trophy" x="516" y="155" width="6" height="8"/>
+  <rect class="trophy" x="512" y="163" width="14" height="4"/>
+  <text class="title" x="540" y="135">Automation</text>
+  <text class="status" x="540" y="153">Achieved</text>
+</svg>
