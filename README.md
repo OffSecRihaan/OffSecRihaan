@@ -15,7 +15,7 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=OffSecRihaan&theme=onedark" />
   </a>
 </p>
 ---
