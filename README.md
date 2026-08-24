@@ -15,10 +15,9 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
   </a>
 </p>
-
 ---
 
 <h2 align="center">Languages • Tooling • Platforms</h2>
