@@ -12,9 +12,11 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+  <img
+    src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png"
+    width="700"
+  />
 </p>
----
 
 <h2 align="center">Languages • Tooling • Platforms</h2>
 
