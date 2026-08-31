@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/assets/banner-212.svg"
+    src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/assets/banner-222.svg"
     alt="Bug Bounty Hunter"
     width="100%"
   />
