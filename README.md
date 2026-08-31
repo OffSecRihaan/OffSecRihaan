@@ -23,7 +23,7 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 </h4>
 
 
-<img align="right" width="250" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" width="250" src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148">
 
 <h2 align="center">Languages • Tooling • Platforms</h2>
 
