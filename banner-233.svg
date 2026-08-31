@@ -1,0 +1,89 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Discrete step typing clip path -->
+    <clipPath id="typing-mask">
+      <rect x="345" y="80" height="80" class="mask-anim"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    :root {
+      --text-width: 510px; /* 17 characters × 30px step width */
+    }
+
+    /* 1. Mask steps across precisely 17 characters */
+    @keyframes type-mask {
+      0% { width: 0px; }
+      12% { width: 0px; animation-timing-function: steps(17, end); }
+      45% { width: var(--text-width); }
+      85% { width: var(--text-width); }
+      100% { width: 0px; }
+    }
+
+    /* 2. Cursor steps in sync with the mask */
+    @keyframes cursor-step {
+      0% { transform: translateX(0px); }
+      12% { transform: translateX(0px); animation-timing-function: steps(17, end); }
+      45% { transform: translateX(var(--text-width)); }
+      85% { transform: translateX(var(--text-width)); }
+      100% { transform: translateX(0px); }
+    }
+
+    /* 3. Terminal cursor blink */
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    /* 4. Minimal subtitle fade-in */
+    @keyframes subtitle-fade {
+      0%, 48% { opacity: 0; }
+      58%, 85% { opacity: 1; }
+      95%, 100% { opacity: 0; }
+    }
+
+    .mask-anim { animation: type-mask 7s infinite; }
+    .cursor-anim { animation: cursor-step 7s infinite, blink 0.75s step-end infinite; }
+    .subtitle-anim { animation: subtitle-fade 7s infinite; }
+
+    .mono-title {
+      font-family: 'ui-monospace', 'SFMono-Regular', 'Cascadia Code', 'Consolas', 'Courier New', monospace;
+      font-weight: 700;
+      font-size: 46px;
+      fill: #e6e6e6;
+    }
+
+    .mono-sub {
+      font-family: 'ui-monospace', 'SFMono-Regular', 'Cascadia Code', 'Consolas', 'Courier New', monospace;
+      font-weight: 400;
+      font-size: 13px;
+      letter-spacing: 5px;
+      fill: #555555;
+    }
+  </style>
+
+  <!-- Deep Black Background -->
+  <rect width="1200" height="260" fill="#050505"/>
+
+  <!-- Minimal Top Line -->
+  <line x1="120" y1="65" x2="1080" y2="65" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- Terminal Block Cursor -->
+  <rect x="345" y="103" width="22" height="44" fill="#e6e6e6" class="cursor-anim" />
+
+  <!-- Main Title masked by typing clipPath -->
+  <g clip-path="url(#typing-mask)">
+    <text x="345" y="140" textLength="510" class="mono-title">
+      BUG BOUNTY HUNTER
+    </text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="600" y="180" text-anchor="middle" class="mono-sub subtitle-anim">
+    WEB APPLICATION SECURITY RESEARCHER
+  </text>
+
+  <!-- Minimal Bottom Line -->
+  <line x1="120" y1="205" x2="1080" y2="205" stroke="#1a1a1a" stroke-width="1"/>
+
+</svg>
