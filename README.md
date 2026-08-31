@@ -42,7 +42,7 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
        alt="Rihaan Logo" width="180" height="auto" />
 </div>
 
-<h3 align="center">Contact</h3>
+<h2 align="center">Contact</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank" rel="noopener noreferrer">
