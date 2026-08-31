@@ -46,11 +46,10 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 
 <h1 align="center">Eat Sleeep Hack Repeat</h1>
 
+<h1 align="center"></h1>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Unlisted-0xr/Unlisted-0xr/main/banner-233.svg"
-    alt="Bug Bounty Hunter"
-    width="100%"
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
   />
 </p>
 
