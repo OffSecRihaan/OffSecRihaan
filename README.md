@@ -23,13 +23,7 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 </h4>
 
 
-<h1 align="center">Trophies</h1>
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png"
-    width="700"
-  />
-</p>
+<img align="right" width="250" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">Languages • Tooling • Platforms</h2>
 
