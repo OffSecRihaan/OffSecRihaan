@@ -44,7 +44,7 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
        alt="Rihaan Logo" width="180" height="auto" />
 </div>
 
-<h1 align="center">Eat Sleeep Hack Repeat</h1>
+
 
 <h1 align="center"></h1>
 <p align="center">
@@ -52,7 +52,7 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
   />
 </p>
-
+<h1 align="center">Eat Sleeep Hack Repeat</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank" rel="noopener noreferrer">
