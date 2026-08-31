@@ -22,21 +22,20 @@ Question the system, Always.
 I look at systems the way problems look at locks. I work hands-on, build what I need, and push until patterns change. I question assumptions, test boundaries, and stay close to how things actually break. Most weaknesses only appear after trust is abused long enough. I pay attention to those moments.
 </h4>
 
-
-<img align="right" width="250" src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148">
-
 <h2 align="center">Languages • Tooling • Platforms</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs&theme=dark" height="54"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="70%">
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs&theme=dark" height="54"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="180"/>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
