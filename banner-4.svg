@@ -1,167 +1,313 @@
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1200"
-     height="220"
-     viewBox="0 0 1200 220">
+<?xml version="1.0" encoding="UTF-8"?>
 
-  <!-- Background -->
-  <rect width="1200" height="220" fill="#050505"/>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1200"
+    height="300"
+    viewBox="0 0 1200 300">
 
-  <!-- Very subtle border -->
-  <rect x="22" y="22"
-        width="1156"
-        height="176"
-        rx="4"
+    <!-- =========================================================
+         BACKGROUND
+         ========================================================= -->
+
+    <rect
+        width="1200"
+        height="300"
+        fill="#050505"/>
+
+    <!-- Subtle frame -->
+    <rect
+        x="28"
+        y="28"
+        width="1144"
+        height="244"
+        rx="8"
         fill="none"
-        stroke="#1a1a1a"
+        stroke="#171717"
         stroke-width="1"/>
 
-  <!-- Small terminal prompt -->
-  <text x="80"
-        y="72"
-        font-family="JetBrains Mono, Consolas, monospace"
-        font-size="13"
-        letter-spacing="2"
-        fill="#666666">
-    SECURITY_RESEARCHER
-  </text>
 
-  <!-- Main text -->
-  <text x="80"
-        y="128"
-        font-family="JetBrains Mono, Consolas, monospace"
+    <!-- =========================================================
+         TOP TERMINAL LABEL
+         ========================================================= -->
+
+    <text
+        x="70"
+        y="72"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="3"
+        fill="#666666">
+        SECURITY_RESEARCH
+    </text>
+
+    <!-- Tiny status indicator -->
+    <circle
+        cx="1090"
+        cy="67"
+        r="3"
+        fill="#aaaaaa">
+
+        <animate
+            attributeName="opacity"
+            values="1;0.25;1"
+            dur="1.4s"
+            repeatCount="indefinite"/>
+    </circle>
+
+    <text
+        x="1105"
+        y="72"
+        font-family="monospace"
+        font-size="11"
+        letter-spacing="2"
+        fill="#555555">
+        ONLINE
+    </text>
+
+
+    <!-- =========================================================
+         TERMINAL PROMPT
+         ========================================================= -->
+
+    <text
+        x="70"
+        y="142"
+        font-family="monospace"
         font-size="48"
-        font-weight="700"
+        font-weight="bold"
         letter-spacing="1"
         fill="#eeeeee">
-    Bug Bounty Hunter
-  </text>
 
-  <!-- Cyan RGB glitch -->
-  <text x="80"
-        y="128"
-        font-family="JetBrains Mono, Consolas, monospace"
+        <tspan>&gt; </tspan>
+
+        <!-- Typing effect -->
+        <tspan>
+            Bug Bounty Hunter
+
+            <animate
+                attributeName="opacity"
+                values="0;0;0;1;1"
+                keyTimes="0;0.15;0.3;0.45;1"
+                dur="3s"
+                repeatCount="indefinite"/>
+        </tspan>
+
+    </text>
+
+
+    <!-- =========================================================
+         CYAN GLITCH
+         ========================================================= -->
+
+    <text
+        x="70"
+        y="142"
+        font-family="monospace"
         font-size="48"
-        font-weight="700"
+        font-weight="bold"
         letter-spacing="1"
         fill="#00e5ff"
         opacity="0">
 
-    Bug Bounty Hunter
+        &gt; Bug Bounty Hunter
 
-    <animate
-      attributeName="opacity"
-      values="0;0;0.45;0;0;0.25;0"
-      dur="3.2s"
-      repeatCount="indefinite"/>
+        <animate
+            attributeName="opacity"
+            values="0;0;0.55;0;0;0.35;0"
+            keyTimes="0;0.42;0.43;0.45;0.72;0.73;1"
+            dur="4s"
+            repeatCount="indefinite"/>
 
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0;2 0;-2 0;1 0;0 0"
-      dur="0.12s"
-      repeatCount="indefinite"/>
-  </text>
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            values="0 0;3 0;-3 0;1 0;0 0"
+            dur="0.16s"
+            repeatCount="indefinite"/>
 
-  <!-- Red RGB glitch -->
-  <text x="80"
-        y="128"
-        font-family="JetBrains Mono, Consolas, monospace"
+    </text>
+
+
+    <!-- =========================================================
+         RED GLITCH
+         ========================================================= -->
+
+    <text
+        x="70"
+        y="142"
+        font-family="monospace"
         font-size="48"
-        font-weight="700"
+        font-weight="bold"
         letter-spacing="1"
         fill="#ff1744"
         opacity="0">
 
-    Bug Bounty Hunter
+        &gt; Bug Bounty Hunter
 
-    <animate
-      attributeName="opacity"
-      values="0;0.35;0;0;0.2;0"
-      dur="2.7s"
-      repeatCount="indefinite"/>
+        <animate
+            attributeName="opacity"
+            values="0;0.45;0;0;0.25;0"
+            keyTimes="0;0.42;0.44;0.7;0.71;1"
+            dur="3.5s"
+            repeatCount="indefinite"/>
 
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0;-2 0;2 0;-1 0;0 0"
-      dur="0.14s"
-      repeatCount="indefinite"/>
-  </text>
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            values="0 0;-3 0;2 0;-1 0;0 0"
+            dur="0.13s"
+            repeatCount="indefinite"/>
 
-  <!-- Cursor -->
-  <rect x="548"
-        y="91"
-        width="3"
-        height="45"
+    </text>
+
+
+    <!-- =========================================================
+         TYPING CURSOR
+         ========================================================= -->
+
+    <rect
+        x="645"
+        y="105"
+        width="4"
+        height="46"
         fill="#eeeeee">
 
-    <animate
-      attributeName="opacity"
-      values="1;0;1;0;1"
-      dur="0.9s"
-      repeatCount="indefinite"/>
-  </rect>
+        <animate
+            attributeName="opacity"
+            values="1;1;0;0;1"
+            dur="0.75s"
+            repeatCount="indefinite"/>
 
-  <!-- Subtitle -->
-  <text x="82"
-        y="158"
-        font-family="JetBrains Mono, Consolas, monospace"
+        <!-- Cursor movement -->
+        <animate
+            attributeName="x"
+            values="105;150;195;240;285;330;375;420;465;510;555;600;645"
+            dur="3s"
+            repeatCount="indefinite"/>
+
+    </rect>
+
+
+    <!-- =========================================================
+         SUBTITLE
+         ========================================================= -->
+
+    <text
+        x="73"
+        y="180"
+        font-family="monospace"
         font-size="12"
-        letter-spacing="3"
+        letter-spacing="4"
         fill="#555555">
-    RECON  •  DISCOVER  •  REPORT
-  </text>
 
-  <!-- Right-side status -->
-  <text x="1120"
-        y="72"
-        text-anchor="end"
-        font-family="JetBrains Mono, Consolas, monospace"
+        RECON  /  DISCOVER  /  REPORT
+
+    </text>
+
+
+    <!-- =========================================================
+         LOWER TERMINAL LINE
+         ========================================================= -->
+
+    <text
+        x="70"
+        y="225"
+        font-family="monospace"
         font-size="11"
         letter-spacing="2"
-        fill="#555555">
-    STATUS
-  </text>
+        fill="#3f3f3f">
 
-  <circle cx="1080"
-          cy="92"
-          r="3"
-          fill="#eeeeee">
-    <animate
-      attributeName="opacity"
-      values="1;0.25;1"
-      dur="1.4s"
-      repeatCount="indefinite"/>
-  </circle>
+        [01] ENUMERATION
+    </text>
 
-  <text x="1095"
-        y="96"
-        font-family="JetBrains Mono, Consolas, monospace"
+    <text
+        x="290"
+        y="225"
+        font-family="monospace"
         font-size="11"
-        fill="#777777">
-    ACTIVE
-  </text>
+        letter-spacing="2"
+        fill="#3f3f3f">
 
-  <!-- Bottom accent -->
-  <rect x="80"
-        y="181"
-        width="1040"
+        [02] ANALYSIS
+    </text>
+
+    <text
+        x="480"
+        y="225"
+        font-family="monospace"
+        font-size="11"
+        letter-spacing="2"
+        fill="#3f3f3f">
+
+        [03] VALIDATION
+    </text>
+
+    <text
+        x="705"
+        y="225"
+        font-family="monospace"
+        font-size="11"
+        letter-spacing="2"
+        fill="#3f3f3f">
+
+        [04] REPORT
+    </text>
+
+
+    <!-- =========================================================
+         BOTTOM PROGRESS LINE
+         ========================================================= -->
+
+    <rect
+        x="70"
+        y="245"
+        width="1060"
         height="1"
-        fill="#151515"/>
+        fill="#141414"/>
 
-  <rect x="80"
-        y="181"
-        width="110"
+    <rect
+        x="70"
+        y="245"
+        width="0"
         height="1"
         fill="#888888">
 
-    <animate
-      attributeName="x"
-      values="80;1010;80"
-      dur="5s"
-      repeatCount="indefinite"/>
-  </rect>
+        <animate
+            attributeName="width"
+            values="0;1060;0"
+            dur="6s"
+            repeatCount="indefinite"/>
+
+    </rect>
+
+
+    <!-- =========================================================
+         SCAN EFFECT
+         ========================================================= -->
+
+    <rect
+        x="70"
+        y="90"
+        width="1060"
+        height="1"
+        fill="#ffffff"
+        opacity="0">
+
+        <animate
+            attributeName="y"
+            values="80;235;80"
+            dur="5s"
+            repeatCount="indefinite"/>
+
+        <animate
+            attributeName="opacity"
+            values="0;0.05;0"
+            dur="5s"
+            repeatCount="indefinite"/>
+
+    </rect>
 
 </svg>
 ```
