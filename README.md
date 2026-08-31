@@ -22,6 +22,9 @@ Question the system, Always.
 I look at systems the way problems look at locks. I work hands-on, build what I need, and push until patterns change. I question assumptions, test boundaries, and stay close to how things actually break. Most weaknesses only appear after trust is abused long enough. I pay attention to those moments.
 </h4>
 
+<br>
+<br>
+
 <h2 align="center">Languages • Tooling • Platforms</h2>
 
 <table>
