@@ -23,23 +23,19 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 </h4>
 
 <h2 align="center">Languages • Tooling • Platforms</h2>
+
 <table>
   <tr>
-    <td align="center" width="70%">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,go,rust,java,html,css,php,nodejs&theme=dark" height="54"/>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
     </td>
-
-    <td width="30%" align="center">
-      <img
-        src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148"
-        width="100%"
-      />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="250"/>
     </td>
   </tr>
 </table>
-
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/168954568/352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgzODAzMDMsIm5iZiI6MTc2ODM4MDAwMywicGF0aCI6Ii8xNjg5NTQ1NjgvMzUyMDUwNzA2LTljODI2ZGQwLWZkNzItNDliYS1hZjYwLWU3OWY2NDM0NGY1OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNFQwODQwMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNTM4M2I3MDBkYThiNGUzYWJmMGY3NjNkYzdmNzM0MDNkYTViOTY3MjdjMzY0NzQ4NTAyZWM4Yjg5OTZjNjQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.s38J8w7XuN319dK1v1nWAI2FyxRGEy3EO8Ss4dgsxrY" 
