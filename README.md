@@ -46,6 +46,15 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 
 <h1 align="center">Eat Sleeep Hack Repeat</h1>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Unlisted-0xr/Unlisted-0xr/main/banner-233.svg"
+    alt="Bug Bounty Hunter"
+    width="100%"
+  />
+</p>
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rihaan-sofi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
