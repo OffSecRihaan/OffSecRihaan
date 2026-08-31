@@ -1,120 +1,160 @@
 ```svg
-<svg width="1200" height="220" viewBox="0 0 1200 220"
-     xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="220"
+     viewBox="0 0 1200 220">
 
-  <!-- Background -->
-  <rect width="1200" height="220" fill="#000000"/>
+  <rect width="1200" height="220" fill="#050505"/>
 
-  <!-- Subtle scanlines -->
-  <g opacity="0.035">
-    <rect x="0" y="82" width="1200" height="1" fill="#ffffff"/>
-    <rect x="0" y="92" width="1200" height="1" fill="#ffffff"/>
-    <rect x="0" y="102" width="1200" height="1" fill="#ffffff"/>
-    <rect x="0" y="112" width="1200" height="1" fill="#ffffff"/>
-    <rect x="0" y="122" width="1200" height="1" fill="#ffffff"/>
-    <rect x="0" y="132" width="1200" height="1" fill="#ffffff"/>
-    <rect x="0" y="142" width="1200" height="1" fill="#ffffff"/>
+  <!-- Subtle terminal grid -->
+  <g opacity="0.035" stroke="#ffffff">
+    <path d="M0 40H1200"/>
+    <path d="M0 70H1200"/>
+    <path d="M0 100H1200"/>
+    <path d="M0 130H1200"/>
+    <path d="M0 160H1200"/>
+    <path d="M0 190H1200"/>
   </g>
 
-  <!-- Main text -->
-  <text x="600" y="120"
+  <!-- Main typing text -->
+  <text x="600"
+        y="125"
         text-anchor="middle"
-        font-family="JetBrains Mono, Consolas, monospace"
-        font-size="42"
-        font-weight="600"
-        letter-spacing="1"
-        fill="#e6e6e6">
+        font-family="monospace"
+        font-size="44"
+        font-weight="bold"
+        letter-spacing="2"
+        fill="#e8e8e8">
+
     Bug Bounty Hunter
+
+    <!-- Typing / flicker effect -->
+    <animate
+      attributeName="opacity"
+      values="0;1;1;1;0.96;1"
+      dur="3s"
+      repeatCount="indefinite"/>
   </text>
 
-  <!-- Cyan glitch -->
-  <text x="600" y="120"
+  <!-- Cyan glitch copy -->
+  <text x="600"
+        y="125"
         text-anchor="middle"
-        font-family="JetBrains Mono, Consolas, monospace"
-        font-size="42"
-        font-weight="600"
-        letter-spacing="1"
+        font-family="monospace"
+        font-size="44"
+        font-weight="bold"
+        letter-spacing="2"
         fill="#00ffff"
         opacity="0">
+
     Bug Bounty Hunter
+
+    <animate
+      attributeName="opacity"
+      values="0;0;0.55;0;0;0.35;0"
+      dur="2.7s"
+      repeatCount="indefinite"/>
 
     <animateTransform
       attributeName="transform"
       type="translate"
-      values="0 0; 5 0; -4 1; 2 -1; 0 0"
+      values="0 0;5 0;-4 1;2 -1;0 0"
       dur="0.18s"
       repeatCount="indefinite"/>
+  </text>
+
+  <!-- Red glitch copy -->
+  <text x="600"
+        y="125"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="44"
+        font-weight="bold"
+        letter-spacing="2"
+        fill="#ff1744"
+        opacity="0">
+
+    Bug Bounty Hunter
 
     <animate
       attributeName="opacity"
-      values="0;0;0.5;0;0;0.35;0"
-      dur="2.4s"
+      values="0;0.45;0;0;0.3;0"
+      dur="2.2s"
       repeatCount="indefinite"/>
-  </text>
-
-  <!-- Red glitch -->
-  <text x="600" y="120"
-        text-anchor="middle"
-        font-family="JetBrains Mono, Consolas, monospace"
-        font-size="42"
-        font-weight="600"
-        letter-spacing="1"
-        fill="#ff003c"
-        opacity="0">
-    Bug Bounty Hunter
 
     <animateTransform
       attributeName="transform"
       type="translate"
-      values="0 0;-5 0;3 -1;-2 1;0 0"
+      values="0 0;-5 0;4 -1;-2 1;0 0"
       dur="0.16s"
-      repeatCount="indefinite"/>
-
-    <animate
-      attributeName="opacity"
-      values="0;0.4;0;0;0.3;0"
-      dur="2.1s"
       repeatCount="indefinite"/>
   </text>
 
-  <!-- Typing cursor -->
-  <rect x="925" y="82"
-        width="3"
-        height="46"
-        fill="#e6e6e6">
+  <!-- Blinking terminal cursor -->
+  <rect x="842"
+        y="91"
+        width="4"
+        height="42"
+        fill="#e8e8e8">
 
     <animate
       attributeName="opacity"
-      values="1;0;1"
-      dur="0.65s"
-      repeatCount="indefinite"/>
-
-    <!-- Move cursor as if typing -->
-    <animate
-      attributeName="x"
-      values="600;625;650;675;700;725;750;775;800;825;850;875;900;925"
-      dur="2.8s"
+      values="1;1;0;0;1"
+      dur="0.8s"
       repeatCount="indefinite"/>
   </rect>
 
-  <!-- Glitch bars -->
+  <!-- Random horizontal glitch slices -->
   <g opacity="0">
-    <rect x="180" y="91" width="250" height="3" fill="#00ffff"/>
-    <rect x="720" y="137" width="210" height="3" fill="#ff003c"/>
+
+    <rect x="240" y="92" width="210" height="3" fill="#00ffff"/>
+    <rect x="690" y="104" width="170" height="2" fill="#ff1744"/>
+    <rect x="330" y="137" width="280" height="3" fill="#00ffff"/>
+    <rect x="770" y="128" width="130" height="2" fill="#ff1744"/>
 
     <animate
       attributeName="opacity"
-      values="0;0;0.4;0;0;0.25;0"
-      dur="1.7s"
+      values="0;0;0.7;0;0;0.45;0"
+      dur="1.9s"
       repeatCount="indefinite"/>
   </g>
 
-  <!-- Bottom accent -->
-  <rect x="410" y="151" width="380" height="1" fill="#e6e6e6" opacity="0.12">
+  <!-- Terminal status -->
+  <text x="600"
+        y="166"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="3"
+        fill="#777777">
+
+    // FIND • REPORT • REPEAT
+
+    <animate
+      attributeName="opacity"
+      values="0.35;0.7;0.35"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- Bottom scan line -->
+  <rect x="350"
+        y="183"
+        width="500"
+        height="1"
+        fill="#ffffff"
+        opacity="0.12">
+
     <animate
       attributeName="width"
-      values="0;380;380;0"
-      dur="3.5s"
+      values="0;500;500;0"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="x"
+      values="600;350;350;600"
+      dur="4s"
       repeatCount="indefinite"/>
   </rect>
 
