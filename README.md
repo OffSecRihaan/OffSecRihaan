@@ -31,8 +31,8 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
     </td>
-    <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="180"/>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="240"/>
     </td>
   </tr>
 </table>
