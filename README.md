@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/OffSecRihaan/OffSecRihaan/main/banner-2.svg" />
+<img src="https://github.com/OffSecRihaan/OffSecRihaan/blob/main/banner-2.svg" />
 
 ```bash
 Question the system, Always.
