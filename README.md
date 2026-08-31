@@ -23,7 +23,6 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 </h4>
 
 <h2 align="center">Languages • Tooling • Platforms</h2>
-
 <table>
   <tr>
     <td align="center" width="70%">
@@ -31,8 +30,12 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,mysql,postgres,mongodb,redis,linux,docker,aws,git,github&theme=dark" height="54"/>
     </td>
-    <td align="center" width="60%">
-      <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="260"/>
+
+    <td width="30%" align="center">
+      <img
+        src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
