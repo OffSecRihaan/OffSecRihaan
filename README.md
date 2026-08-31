@@ -1,4 +1,6 @@
-<img src="banner-2.svg" />
+<p align="center">
+  <img src="./banner-2.svg" alt="Bug Bounty Hunter" width="100%" />
+</p>
 
 ```bash
 Question the system, Always.
