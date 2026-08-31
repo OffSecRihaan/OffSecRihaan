@@ -7,7 +7,7 @@
 </p>
 
 ```bash
-Question the system, Always.
+I am Rihaan, primarily focused on Web Security, Reverse Engineering, Malware Research.
 ```
 <h1 align="center"></h1>
 <p align="center">
