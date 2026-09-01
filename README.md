@@ -24,7 +24,7 @@ I look at systems the way problems look at locks. I work hands-on, build what I 
 
 <br>
 
-<h1 align="center">Languages • Tooling • Platforms</h1>
+<h1 align="center">Programming Languages I Code</h1>
 
 <table>
   <tr>
